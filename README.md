@@ -1,4 +1,4 @@
-# Olá! Sou a Tais! 
+# Olá! Sou a Tais! 👋
 
 * Estudante do 2º semestre do curso de análise e desenvolvimento de sistemas
 * Estudando para me tornar desenvolvedora Back-end
